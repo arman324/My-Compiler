@@ -1,0 +1,28 @@
+
+
+int main(){
+
+
+	int a[2];
+
+	int t=2;
+	int k=4;
+	
+	if (t <= k+1){
+		k = k+8;
+		print(k);
+	}
+	if(t+5<10){
+
+		a[1]=0;
+		a[0]=6;
+	}
+	else{
+		print(t);
+	}
+
+	print(a[0]);
+	print(a[1]);
+
+
+}

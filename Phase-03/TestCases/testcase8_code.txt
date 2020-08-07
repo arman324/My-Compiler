@@ -1,0 +1,11 @@
+int func(){
+	void doesNotReturn;
+	return doesNotReturn;
+}
+
+
+int main(){
+	int comp = 5;
+	int result = func();
+	return 0;
+}

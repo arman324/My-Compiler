@@ -1,0 +1,17 @@
+
+
+int main(){
+
+	int k[10];
+
+	int i=0;
+
+	foreach i(0...9){
+
+		k[i]=i;
+		print(k[i]);
+	
+	}
+
+
+}

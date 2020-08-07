@@ -1,0 +1,17 @@
+
+
+int main(){
+
+	int k=9;
+
+	int i;
+
+	foreach i(0...5){
+
+		k=k+1;
+
+	}
+
+	print(k);
+
+}

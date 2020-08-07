@@ -1,0 +1,13 @@
+int main(){
+	int a = 0;
+	if(a > 0){
+		int b = a;
+	}
+	else{
+		int c = d;
+	}
+
+	foreach a (1 .. 5){
+		print(c);
+	}
+}
