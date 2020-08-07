@@ -1,13 +1,13 @@
 # A simple compiler for a language similar to C++
 ## Overview
-
+In this project, I tried to design a compiler for a language similar to C++. For this compiler design, I used Flex and Bison.
 ## Requirements
 * Requires ``flex 2.5.35`` or later.
 * Requires ``Bison 2.3`` or later.
 
 ## [Phase-01:](https://github.com/arman324/My-Compiler/tree/master/Phase-01)
 ### Goal:
-
+In this phase, a program is given to your code, if that program follows the lexical rules, you must print the tokens of that program in the output, otherwise, you must print the appropriate error.
 ### How to Run:
 1. ``flex -o Lex_Rule.cpp Lex_Rule.lex``
 2. ``g++ -o my Lex_Rule.cpp``
