@@ -7,7 +7,7 @@ In this project, I tried to design a compiler for a language similar to C++. For
 
 ## [Phase-01:](https://github.com/arman324/My-Compiler/tree/master/Phase-01)
 ### Goal:
-In this phase, a program is given to your code, if that program follows the lexical rules, you must print the tokens of that program in the output, otherwise, you must print the appropriate error.
+In this phase, a program is given to your code, if that program follows the lexical rules, it must print the tokens of that program in the output, otherwise, it must print the appropriate error.
 ### How to Run:
 1. ``flex -o Lex_Rule.cpp Lex_Rule.lex``
 2. ``g++ -o my Lex_Rule.cpp``
@@ -24,7 +24,7 @@ Tokens of [this](https://github.com/arman324/My-Compiler/blob/master/Phase-01/te
 
 ## [Phase-02:](https://github.com/arman324/My-Compiler/tree/master/Phase-02)
 ### Goal:
-
+In this phase, a program is given to your code, if that program has followed the lexical and syntactic rules of the language, it will create an Abstract Syntax Tree, otherwise, it must print the appropriate error with line and column number.
 ### How to Run:
 1. ``bison Bison_Rule.y``
 2. ``bison -d Bison_Rule.y -o myapp.cpp``
@@ -38,7 +38,7 @@ This is the Abstract Syntax Tree (AST) of [4.in](https://github.com/arman324/My-
 <img width="1200" alt="Screen Shot 2020-08-07 at 1 43 12 PM" src="https://user-images.githubusercontent.com/35253872/89630112-1ff3b680-d8b4-11ea-920c-457625da6856.png">
 
 
-## [Phase-03:]()
+## [Phase-03:](https://github.com/arman324/My-Compiler/tree/master/Phase-03)
 ### Goal:
 
 ### How to Run:
