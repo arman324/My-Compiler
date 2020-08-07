@@ -1,0 +1,5 @@
+int main(){
+	foreach a (2 .. 4){
+		int b = a;
+	}
+}

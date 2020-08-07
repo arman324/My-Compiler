@@ -1,0 +1,12 @@
+void empty(){
+
+}
+
+int main(){
+	int m = 0;	
+	if( m == 1 ){
+		print("what is lovely?");
+	}else{
+		print("There is nothing:(");
+	}
+}

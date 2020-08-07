@@ -1,0 +1,1 @@
+PROGRAM GLOBAL_DECLARE PGM TYPE void empty ( F_ARG ) {  } PGM TYPE int main ( F_ARG ) { STMT STMT_DECLARE TYPE int m = EXP 0 ; STMT CONDITION if ( EXP EXP m == EXP 1 ) ELSECON { STMT PRINTFUNC print ( EXP "what is lovely?" ) ;  } else { STMT PRINTFUNC print ( EXP "There is nothing:(" ) ;  }  } 

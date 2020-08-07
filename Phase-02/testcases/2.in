@@ -1,0 +1,16 @@
+int add(int a, int b){
+	return a + b;
+}
+
+void show(char a){
+	print(a);
+}
+
+int main(){
+	int a = 3;
+	int b = a + 1;
+	add(a + b);
+	char compiler = 'c';
+	show();
+	return 0;
+}

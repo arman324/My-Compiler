@@ -1,0 +1,8 @@
+int if(){
+	print("We know if is a reserved ID");
+}
+
+int main(){
+	if();
+}
+

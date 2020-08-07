@@ -1,0 +1,4 @@
+
+int mian(){
+	int a = 2;
+}

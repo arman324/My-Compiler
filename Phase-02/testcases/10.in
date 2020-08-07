@@ -1,0 +1,5 @@
+int main(){
+	int var = 0;
+	string rav = "goli";
+	char varrav = var + rav;
+}
