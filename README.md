@@ -24,7 +24,7 @@ Tokens of [this](https://github.com/arman324/My-Compiler/blob/master/Phase-01/te
 
 ## [Phase-02:](https://github.com/arman324/My-Compiler/tree/master/Phase-02)
 ### Goal:
-In this phase, a program is given to your code, if that program has followed the lexical and syntactic rules of the language, it will create an Abstract Syntax Tree, otherwise, it must print the appropriate error with line and column number.
+In this phase, a program is given to your code, if that program has followed the lexical and syntactic rules of the language, it will create an __Abstract Syntax Tree__, otherwise, it must print the appropriate error with line and column number.
 ### How to Run:
 1. ``bison Bison_Rule.y``
 2. ``bison -d Bison_Rule.y -o myapp.cpp``
@@ -40,7 +40,7 @@ This is the Abstract Syntax Tree (AST) of [4.in](https://github.com/arman324/My-
 
 ## [Phase-03:](https://github.com/arman324/My-Compiler/tree/master/Phase-03)
 ### Goal:
-
+In this phase, a program is given to your code, if that program has followed the lexical and syntactic rules of the language, it will create a __MIPS code__, otherwise, it must print the appropriate error with line and column number.
 ### How to Run:
 1. ``bison Bison_Rule.y``
 2. ``bison -d Bison_Rule.y -o myapp.cpp``
