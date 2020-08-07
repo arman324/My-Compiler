@@ -1,1 +1,0 @@
-PROGRAM GLOBAL_DECLARE PGM TYPE int test ( F_ARG TYPE int d  ) { STMT STMT_DECLARE TYPE int a = EXP 0 ; STMT CONDITION if ( EXP EXP a 0 EXP 1 ) ELSECON { STMT STMT_RETURN return EXP 0 ;  } else { STMT STMT_RETURN return EXP 1 ;  }  } PGM TYPE int main ( F_ARG ) {  } 

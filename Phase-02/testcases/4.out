@@ -1,1 +1,0 @@
-PROGRAM GLOBAL_DECLARE PGM TYPE int main ( F_ARG ) { STMT LOOP foreach a ( EXP 2 € EXP 4 ) { STMT STMT_DECLARE TYPE int b = EXP a ;  }  } 
