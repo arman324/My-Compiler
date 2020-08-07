@@ -21,8 +21,11 @@
 2. ``bison -d Bison_Rule.y -o myapp.cpp``
 3. ``flex -o myapp_lex.cpp test.lex``
 4. ``g++ -o my myapp.cpp myapp_lex.cpp``
-5. ``./my [testCaseName] [number from 0 to 4]`` for example to run the test case [4.in](https://github.com/arman324/My-Compiler/blob/master/Phase-02/4.in) ->  ``./my 4.in() 0``
+5. ``./my [testCaseName] [number from 0 to 3]`` for example to run the test case [4.in](https://github.com/arman324/My-Compiler/blob/master/Phase-02/4.in) ->  ``./my 4.in() 0``
+> * To see other run options, you can see this [link](https://github.com/arman324/My-Compiler/blob/master/Phase-02/Program_Run_Options%20.pdf)
 ### Output:
+This is the Abstract Syntax Tree (AST) of [4.in](https://github.com/arman324/My-Compiler/blob/master/Phase-02/4.in): 
+<img width="1200" alt="Screen Shot 2020-08-07 at 1 43 12 PM" src="https://user-images.githubusercontent.com/35253872/89630112-1ff3b680-d8b4-11ea-920c-457625da6856.png">
 
 
 ## [Phase-03:]()
