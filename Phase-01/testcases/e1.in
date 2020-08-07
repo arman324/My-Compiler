@@ -1,0 +1,4 @@
+int callMe(){
+	int x;
+	x = 32000000000000000    //out of range error
+}

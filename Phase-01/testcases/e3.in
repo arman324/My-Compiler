@@ -1,0 +1,4 @@
+int main(){
+	int 9comp; 	//return in wrong id definition
+	9Comp = 3;
+}

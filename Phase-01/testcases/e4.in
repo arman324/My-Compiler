@@ -1,0 +1,4 @@
+int containComment(){
+	int x;
+	this is comment never opened and result in an error*/
+}

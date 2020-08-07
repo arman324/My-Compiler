@@ -1,0 +1,4 @@
+int containComment(){
+	int y, x = 3;
+	/* this comment should result in an err
+}
