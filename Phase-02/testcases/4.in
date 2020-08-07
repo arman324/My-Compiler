@@ -1,4 +1,7 @@
 int main(){
+	
+	int a = 0;
+	
 	foreach a (2 .. 4){
 		int b = a;
 	}
