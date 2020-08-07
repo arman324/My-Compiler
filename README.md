@@ -7,7 +7,7 @@ In this project, I tried to design a compiler for a language similar to C++. For
 
 ## [Phase-01:](https://github.com/arman324/My-Compiler/tree/master/Phase-01)
 ### Goal:
-In this phase, a program is given to your code, if that program follows the lexical rules, it must print the tokens of that program in the output, otherwise, it must print the appropriate error.
+In this phase, a program is given to your code, if that program follows the lexical rules, it must __print the tokens__ of that program in the output, otherwise, it must print the appropriate error.
 ### How to Run:
 1. ``flex -o Lex_Rule.cpp Lex_Rule.lex``
 2. ``g++ -o my Lex_Rule.cpp``
