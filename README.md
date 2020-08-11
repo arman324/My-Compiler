@@ -30,7 +30,7 @@ In this phase, a program is given to your code, if that program has followed the
 2. ``bison -d Bison_Rule.y -o myapp.cpp``
 3. ``flex -o myapp_lex.cpp test.lex``
 4. ``g++ -o my myapp.cpp myapp_lex.cpp``
-5. ``./my [testCaseName] [number from 0 to 3]`` for example to run the test case [4.in](https://github.com/arman324/My-Compiler/blob/master/Phase-02/4.in) ->  ``./my 4.in() 0``
+5. ``./my [testCaseName] [number from 0 to 3]`` for example to run the test case [4.in](https://github.com/arman324/My-Compiler/blob/master/Phase-02/4.in) ->  ``./my 4.in 0``
 > * To see other run options, you can see this [link](https://github.com/arman324/My-Compiler/blob/master/Phase-02/Program_Run_Options%20.pdf)
 ### Output:
 This is the Abstract Syntax Tree (AST) of [4.in](https://github.com/arman324/My-Compiler/blob/master/Phase-02/4.in): 
